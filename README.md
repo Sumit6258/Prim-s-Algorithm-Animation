@@ -5,7 +5,10 @@ Implementation of an animation for Prim’s Algorithm of minimum cost spanning t
 
 ###### Language Used:
 > Java
+###### IDE Used:
+> [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
+<br />
 
 
 
