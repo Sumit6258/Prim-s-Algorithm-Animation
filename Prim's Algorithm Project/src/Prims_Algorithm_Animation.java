@@ -1,6 +1,6 @@
 package sumit;
 
-
+//Visualization of Prim's Algorithm
 import java.lang.*;
 
 import java.awt.*;
