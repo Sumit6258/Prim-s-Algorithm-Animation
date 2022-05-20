@@ -1,6 +1,6 @@
 package sumit;
 
-
+//Animation of Prism's Algo
 import java.lang.*;
 
 import java.awt.*;
