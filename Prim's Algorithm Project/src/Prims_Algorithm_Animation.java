@@ -343,7 +343,7 @@ class DrawUtils {
     }
     //draw the path by coloring the edge
     public void drawPath(Edge edge) {
-        g.setColor(parseColor("#06f2ec"));
+        g.setColor(parseColor("#f2e806"));//Changing colour of edges for min shortest path
         drawBoldEdge(edge);
     }
     //color when mouse is hovered over the edge
