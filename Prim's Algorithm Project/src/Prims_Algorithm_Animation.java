@@ -1,6 +1,6 @@
 package sumit;
 
-//Visualization of Prim's Algorithm using animation
+//Animation of Prism's Algo
 import java.lang.*;
 
 import java.awt.*;
